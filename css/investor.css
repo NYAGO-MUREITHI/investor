@@ -10,3 +10,6 @@ p {
 body {
       background-color: beige;
 }
+em {
+    font-style: bold;
+}
