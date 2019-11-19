@@ -13,3 +13,7 @@ body {
 em {
     font-style: bold;
 }
+h2 {
+    text-align: center;
+    font-style: italic;
+}
